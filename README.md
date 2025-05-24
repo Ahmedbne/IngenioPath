@@ -6,9 +6,9 @@ IngenioPath is an intelligent learning assistant designed to help users explore 
 IngenioPath offers several modes to interact with your PDF documents:
 
 *   **Informative Mode:** Engage in a conversation with the AI to ask questions and get detailed answers based on the content of your uploaded PDF files. This mode is perfect for in-depth exploration and understanding of the material.
-*   **Game Mode (Devinette):** Test your knowledge with a fun guessing game! The AI will provide clues related to the PDF content, and you'll guess the concept or term.
+*   **Game Mode (Devinette):** Test your knowledge with a fun guessing game! You will provide clues related to the PDF content, and the AI will try to guess the concept or term.
 *   **Quiz Mode:** Challenge yourself with quizzes generated from the PDF documents. This is a great way to assess your understanding and retention of the material.
-*   **PDF Processing:** IngenioPath can process text from PDF files located in the `PDF/` directory. It extracts the text, divides it into manageable chunks, and creates a vector store for efficient information retrieval.
+*   **PDF Processing:** IngenioPath can process text from PDF files located in the `PDF/` directory. It extracts the text, divides it into manageable chunks, and creates a vector store for efficient information retrieval. (RAG)
 
 ## Technical Stack
 
